@@ -1,0 +1,6 @@
+{
+  "name": "Alisson Becker - Ficha Técnica Estelar",
+  "description": "Una ficha técnica interactiva y cromo estilo retro del arquero de la selección de Brasil, Alisson Becker, con estadísticas y detalles de su carrera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
